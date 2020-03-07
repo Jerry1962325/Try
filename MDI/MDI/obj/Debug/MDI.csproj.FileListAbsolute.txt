@@ -1,0 +1,11 @@
+D:\VSWorks\MDI\MDI\bin\Debug\MDI.exe.config
+D:\VSWorks\MDI\MDI\bin\Debug\MDI.exe
+D:\VSWorks\MDI\MDI\bin\Debug\MDI.pdb
+D:\VSWorks\MDI\MDI\obj\Debug\MDI.Load.resources
+D:\VSWorks\MDI\MDI\obj\Debug\MDI.MDIParent1.resources
+D:\VSWorks\MDI\MDI\obj\Debug\MDI.Properties.Resources.resources
+D:\VSWorks\MDI\MDI\obj\Debug\MDI.csproj.GenerateResource.cache
+D:\VSWorks\MDI\MDI\obj\Debug\MDI.exe
+D:\VSWorks\MDI\MDI\obj\Debug\MDI.pdb
+D:\VSWorks\MDI\MDI\obj\Debug\MDI.改密.resources
+D:\VSWorks\MDI\MDI\obj\Debug\MDI.转接.resources
