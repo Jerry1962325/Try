@@ -36,11 +36,16 @@ namespace MDI
 
         private void ChangeButton_Click(object sender, EventArgs e)
         {
-            if ((textBox1.Text != string.Empty && textBox2.Text != string.Empty) && ((Directory.Exists(".\\User_All\\" + textBox1)) && Directory.Exists(".\\User_All\\" + textBox2.Text)))
+            if (textBox1.Text != string.Empty && textBox2.Text != string.Empty)
             {
-                MessageBox.Show("ok");
+                if (Directory.Exists("./User_All/" + textBox1.Text) && Directory.Exists("./User_All/" + textBox2.Text))
+                {
+                    if(File.ReadAllText("./User_All/"+textBox1.Text+"/IF.dat")=="true"&& File.ReadAllText("./User_All/" + textBox2.Text + "/IF.dat") == "false")
+                    {
+                        MessageBox.Show("OK");
+                    }
+                }
             }
-            else { MessageBox.Show(""); }
         }
     }
 }

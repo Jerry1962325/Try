@@ -1,0 +1,18 @@
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\My Class.dll
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NPOI.dll
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NPOI.OOXML.dll
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.dll
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\My Class.pdb
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\VSWorks\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete

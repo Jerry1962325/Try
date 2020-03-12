@@ -1,0 +1,11 @@
+D:\VSWorks\My Class\My Class\bin\Debug\My Class.dll
+D:\VSWorks\My Class\My Class\bin\Debug\My Class.pdb
+D:\VSWorks\My Class\My Class\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VSWorks\My Class\My Class\bin\Debug\NPOI.dll
+D:\VSWorks\My Class\My Class\bin\Debug\NPOI.OOXML.dll
+D:\VSWorks\My Class\My Class\bin\Debug\NPOI.OpenXml4Net.dll
+D:\VSWorks\My Class\My Class\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\VSWorks\My Class\My Class\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\VSWorks\My Class\My Class\obj\Debug\My Class.csproj.CopyComplete
+D:\VSWorks\My Class\My Class\obj\Debug\My Class.dll
+D:\VSWorks\My Class\My Class\obj\Debug\My Class.pdb

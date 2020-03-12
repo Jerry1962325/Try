@@ -1,0 +1,11 @@
+D:\VSWorks\Driving\Driving\bin\Release\netcoreapp3.1\Driving.exe
+D:\VSWorks\Driving\Driving\bin\Release\netcoreapp3.1\Driving.deps.json
+D:\VSWorks\Driving\Driving\bin\Release\netcoreapp3.1\Driving.runtimeconfig.json
+D:\VSWorks\Driving\Driving\bin\Release\netcoreapp3.1\Driving.runtimeconfig.dev.json
+D:\VSWorks\Driving\Driving\bin\Release\netcoreapp3.1\Driving.dll
+D:\VSWorks\Driving\Driving\bin\Release\netcoreapp3.1\Driving.pdb
+D:\VSWorks\Driving\Driving\obj\Release\netcoreapp3.1\Driving.csprojAssemblyReference.cache
+D:\VSWorks\Driving\Driving\obj\Release\netcoreapp3.1\Driving.AssemblyInfoInputs.cache
+D:\VSWorks\Driving\Driving\obj\Release\netcoreapp3.1\Driving.AssemblyInfo.cs
+D:\VSWorks\Driving\Driving\obj\Release\netcoreapp3.1\Driving.dll
+D:\VSWorks\Driving\Driving\obj\Release\netcoreapp3.1\Driving.pdb
